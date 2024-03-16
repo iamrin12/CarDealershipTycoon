@@ -1,0 +1,112 @@
+GameName = "Car Dealership Tycoon" 
+
+tab1name = "Main" 
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))() 
+
+local GameName = Library:NewWindow(GameName) 
+
+local Tab1 = GameName:NewSection(tab1name) 
+
+Tab1:CreateButton("Bunny1", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2060.35938, 603.250793, 3973.06128, -1, -2.38402742e-09, 3.99111381e-13, -2.38402742e-09, 1, -2.65890421e-09, -3.99105038e-13, -2.65890421e-09, -1))
+end) 
+
+Tab1:CreateButton("Bunny2", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2129.50488, 603.250793, 4338.26221, 3.94897365e-14, -6.54825385e-08, -1, 7.30145189e-08, 1, -6.54825385e-08, 1, -7.30145189e-08, 4.42709122e-14))
+end) 
+
+Tab1:CreateButton("Bunny3", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1733.46777, 619.029358, 3638.11182, 0.000213083753, -1.06623958e-07, 1, 3.59498942e-09, 1, 1.06623197e-07, -1, 3.57226981e-09, 0.000213083753))
+end) 
+
+Tab1:CreateButton("Bunny4", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2124.58984, 603.289001, 3090.90869, -2.5984578e-15, -9.07702855e-08, -1, -3.04143932e-09, 1, -9.07702855e-08, 1, 3.04143932e-09, -2.87452997e-15))
+end) 
+
+Tab1:CreateButton("Bunny5", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-698.168945, 603.049744, 4832.19531, -5.46747697e-15, 3.05653067e-08, 1, 2.4372242e-09, 1, -3.05653067e-08, -1, 2.4372242e-09, -5.5419714e-15))
+end) 
+
+Tab1:CreateButton("Bunny6", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1610.17395, 603.250916, 5250.6665, -0.785648882, 6.72789113e-08, 0.618672609, 4.13381365e-08, 1, -5.6252123e-08, -0.618672609, -1.86196427e-08, -0.785648882))
+end) 
+
+Tab1:CreateButton("Bunny7", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2766.05005, 603.250793, 3610.41772, 1, 4.08883665e-08, -3.77507047e-16, -4.08883665e-08, 1, -7.25209337e-11, 3.7454177e-16, 7.25209337e-11, 1))
+end) 
+
+Tab1:CreateButton("Bunny8", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2456.45825, 603.250793, 3563.71802, -6.04749337e-16, -6.82500172e-08, -1, 1.21041538e-10, 1, -6.82500172e-08, 1, -1.21041538e-10, -5.96488225e-16))
+end) 
+
+Tab1:CreateButton("Bunny9", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2159.86035, 603.250793, 3656.42969, 5.38126225e-16, -2.66822582e-08, 1, -4.73187982e-11, 1, 2.66822582e-08, -1, -4.73187982e-11, 5.3686367e-16))
+end) 
+
+Tab1:CreateButton("Bunny10", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1742.15234, 636.079346, 4231.89795, 2.58158358e-16, 1.01836171e-07, 1, 1.8058928e-10, 1, -1.01836171e-07, -1, 1.8058928e-10, 2.39767843e-16))
+end)
+local Tab2 = GameName:NewSection("Main2") 
+
+Tab2:CreateButton("Bunny11", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1612.67773, 603.250793, 4460.71387, -1, -3.42758959e-08, -3.85651507e-16, -3.42758959e-08, 1, -6.07853837e-11, 3.8773497e-16, -6.07853837e-11, -1))
+end) 
+
+Tab2:CreateButton("Bunny12", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1541.4707, 603.250793, 5419.59033, 0.173624188, -6.03038686e-08, 0.984811962, 1.03646158e-08, 1, 5.94065881e-08, -0.984811962, -1.07222516e-10, 0.173624188))
+end) 
+
+Tab2:CreateButton("Bunny13", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-947.579224, 603.250793, 5356.07422, 7.94638666e-16, 1.13451073e-07, 1, 2.01738085e-10, 1, -1.13451073e-07, -1, 2.01738085e-10, 7.71751253e-16))
+end) 
+
+Tab2:CreateButton("Bunny14", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-680.662415, 603.250793, 4195.5, -1, 3.58367309e-08, 1.64713974e-15, 3.58367309e-08, 1, 6.37407072e-11, -1.6448555e-15, 6.37407072e-11, -1))
+end) 
+
+Tab2:CreateButton("Bunny15", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-680.662415, 603.250793, 4195.5, -1, -1.21164064e-07, -9.72335802e-16, -1.21164064e-07, 1, -2.1549508e-10, 9.98446016e-16, -2.1549508e-10, -1))
+end) 
+
+Tab2:CreateButton("Bunny16", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-681.037659, 603.250793, 3437.64844, -1, 1.07966338e-08, 4.66602869e-16, 1.07966338e-08, 1, 1.92046101e-11, -4.66395558e-16, 1.92046101e-11, -1))
+end) 
+
+Tab2:CreateButton("Bunny17", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1262.63184, 603.250793, 3110.71948, -5.69498367e-16, -3.47061899e-08, -1, 6.17248128e-11, 1, -3.47061899e-08, 1, -6.17248128e-11, -5.67356115e-16))
+end) 
+
+Tab2:CreateButton("Bunny18", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1107.28784, 602.999817, 3706.75098, 1, 7.12526571e-08, 1.5105975e-15, -7.12526571e-08, 1, -1.26730001e-10, -1.51962729e-15, 1.26730001e-10, 1))
+end) 
+
+Tab2:CreateButton("Bunny19", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1947.5498, 602.999817, 4979.74951, 1, 5.78439128e-08, -1.40725101e-16, -5.78439128e-08, 1, -1.02888392e-10, 1.34773636e-16, 1.02888392e-10, 1))
+end) 
+
+Tab2:CreateButton("Bunny20", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2863.85132, 602.999817, 4363.45605, 1, -7.06786807e-08, -3.20107515e-16, 7.06786807e-08, 1, 1.25722793e-10, 3.11221584e-16, -1.25722793e-10, 1))
+end)
+local Tab3 = GameName:NewSection("Main3") 
+
+Tab3:CreateButton("Bunny21", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-1759.71362, 604.737061, 3111.53174, -3.57912686e-05, -7.23725648e-08, -1, 1.26135213e-10, 1, -7.23725719e-08, 1, -1.28725516e-10, -3.57912686e-05))
+end) 
+
+Tab3:CreateButton("Bunny22", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2676.86279, 603.250793, 2555.23657, -1.30143872e-06, 5.32095541e-08, -1, -2.10001243e-08, 1, 5.32095825e-08, 1, 2.10001936e-08, -1.30143872e-06))
+end) 
+
+Tab3:CreateButton("Bunny23", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2774.66357, 602.999817, 5255.15283, 1, -2.87333224e-09, -2.92263433e-14, 2.87333224e-09, 1, 1.94540162e-09, 2.92207529e-14, -1.94540162e-09, 1))
+end) 
+
+Tab3:CreateButton("Bunny24", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2498.85059, 602.999817, 4741.16211, 3.1049514e-14, 1.60604348e-08, -1, -1.08740101e-08, 1, 1.60604348e-08, 1, 1.08740101e-08, 3.12241552e-14))
+end) 
+
+Tab3:CreateButton("Bunny25", function(value)
+game.Players.LocalPlayer.Character:PivotTo(CFrame.new(-2439.11768, 603.250793, 5078.32617, 0.895383358, -8.94460044e-08, -0.445296198, 1.07057247e-07, 1, 1.43977585e-08, 0.445296198, -6.05636927e-08, 0.895383358))
+end)
+local Tab2 = GameName:NewSection("justrinn")
